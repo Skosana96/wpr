@@ -1,3 +1,4 @@
-#  prg
+#  python
 
-Learning git
+Learning github 
+uploading python practical project
